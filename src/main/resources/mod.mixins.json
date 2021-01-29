@@ -1,0 +1,13 @@
+{
+"required": true,
+"minVersion": "0.8",
+"package": "tf.ssf.sfort.mixin",
+"compatibilityLevel": "JAVA_8",
+"mixins": [],
+"client": [
+	"Resource"
+],
+"injectors": {
+	"defaultRequire": 1
+}
+}
